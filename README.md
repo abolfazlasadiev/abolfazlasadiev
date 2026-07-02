@@ -9,13 +9,13 @@ I am a Computer Engineering student.
 I am working on the following learning projects:
 
 - 100 Java projects (beginner → advanced)  
-  https://github.com/abolfazlasadiev/100-beginner-java-projects
+  https://github.com/abolfazlasadiev/java-learning-journey
 
 - 100 Frontend projects (beginner → advanced)  
-  https://github.com/abolfazlasadiev/100-frontend-projects
+  https://github.com/abolfazlasadiev/frontend-learning-journey
 
 - 100 Database projects (beginner → advanced)  
-  https://github.com/abolfazlasadiev/100-database-projects
+  https://github.com/abolfazlasadiev/database-practice-journey
 
 ---
 
