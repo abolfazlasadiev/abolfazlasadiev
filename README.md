@@ -1,29 +1,30 @@
 # 👋 Abolfazl Asadi
 
-## 🎓 About Me
 I am a Computer Engineering student.
-
-I am interested in:
-- Web Development (HTML, CSS, JavaScript)
-- Java Programming
-- Databases (SQL)
-- Linux basics
 
 ---
 
-## 💻 What I'm Doing
-I am currently practicing coding with projects:
+## 💻 Current Projects
 
-- 100 Java projects
-- 100 Database projects
-- 100 Frontend projects
+I am working on the following learning projects:
+
+- 100 Java projects (beginner → advanced)  
+  https://github.com/abolfazlasadiev/100-beginner-java-projects
+
+- 100 Frontend projects (beginner → advanced)  
+  https://github.com/abolfazlasadiev/100-frontend-projects
+
+- 100 Database projects (beginner → advanced)  
+  https://github.com/abolfazlasadiev/100-database-projects
 
 ---
 
 ## 🎯 Goal
-I want to become a software developer and improve my programming skills step by step.
+
+My goal is to learn programming fundamentals and build a strong resume for entering the field of **web development and software engineering**.
 
 ---
 
 ## 📫 Contact
-GitHub: https://github.com/[your-username]
+
+GitHub: https://github.com/abolfazlasadiev
